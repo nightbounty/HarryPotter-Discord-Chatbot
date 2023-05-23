@@ -8,6 +8,10 @@ This is a Discord AI Chatbot that uses the Microsoft DialoGPT conversational mod
 
 I trained the model using the lines of Harry Potter. He has about 1500 lines in total
 
+You can also directly chat with the model hosted on [Hugging Face's Model Hub](https://huggingface.co/kevintest1234/DialoGPT-small-harrypotter).
+
+![Screen Shot 2023-05-23 at 3 34 18 PM](https://github.com/nightbounty/HarryPotter-Discord-Chatbot/assets/104731480/a99c62d0-805c-4e79-83c5-2d5ea671ab26)
+
 ## Structure of this Project
 
 - `model_train_upload_workflow.ipyb`: Notebook to be run in Google Colab to train and upload the model to Hugging Face's Model Hub
